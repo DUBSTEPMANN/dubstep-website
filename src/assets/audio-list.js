@@ -1,33 +1,33 @@
 export default [
     {
       name: 'annihilation(Metal Electronic production)',
-      fileName: 'annihilation(Metal Electronic production).wav'
+      fileName: 'annihilation(Metal Electronic production).mp3'
     },
     { name: 'beat commission', fileName: 'beat commission.mp3' },
-    { name: 'Beat production 2', fileName: 'Beat production 2.wav' },
+    { name: 'Beat production 2', fileName: 'Beat production 2.mp3' },
     {
       name: 'Beat production 3 Emotional',
-      fileName: 'Beat production 3 Emotional.wav'
+      fileName: 'Beat production 3 Emotional.mp3'
     },
     {
       name: 'dnd podcast (soundtrack production)',
-      fileName: 'dnd podcast (soundtrack production).wav'
+      fileName: 'dnd podcast (soundtrack production).mp3'
     },
     {
       name: 'Falls apart(Electronic music production)',
-      fileName: 'Falls apart(Electronic music production).wav'
+      fileName: 'Falls apart(Electronic music production).mp3'
     },
     {
       name: 'Fusion exploration (Jazz production)',
-      fileName: 'Fusion exploration (Jazz production).wav'
+      fileName: 'Fusion exploration (Jazz production).mp3'
     },
     {
       name: 'Heiligenstadt Testament (Symphonic Poem arrangement)',
-      fileName: 'Heiligenstadt Testament (Symphonic Poem arrangement).wav'
+      fileName: 'Heiligenstadt Testament (Symphonic Poem arrangement).mp3'
     },
     {
       name: 'Our Reminisce(Sound track production)',
-      fileName: 'Our Reminisce(Sound track production).wav'
+      fileName: 'Our Reminisce(Sound track production).mp3'
     },
     {
       name: 'PARADOX(Electronic music production)',
@@ -39,11 +39,11 @@ export default [
     },
     {
       name: 'Prelude(Sound track production)',
-      fileName: 'Prelude(Sound track production).wav'
+      fileName: 'Prelude(Sound track production).mp3'
     },
     {
       name: 'Rain(Sound track production)',
-      fileName: 'Rain(Sound track production).wav',
+      fileName: 'Rain(Sound track production).mp3',
       cover: 'rain.png'
     },
     {
@@ -57,6 +57,6 @@ export default [
     },
     {
       name: '痕 scars (Beat production, sound engineering)',
-      fileName: '痕 scars (Beat production, sound engineering).wav'
+      fileName: '痕 scars (Beat production, sound engineering).mp3'
     }
   ]
