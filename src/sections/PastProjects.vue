@@ -20,7 +20,7 @@ export default {
     <NCard embedded>
         <music-player name="Same thing" source="../audio/Samething(EDM production).mp3" cover="../cover/samething.png"
         type="audio/mp3"></music-player>
-        <music-player name="Rain(Sound track production)" source="../audio/Rain(Sound track production).wav" cover="../cover/rain.png"
+        <music-player name="Rain(Sound track production)" source="../audio/Rain(Sound track production).mp3" cover="../cover/rain.png"
         type="audio/wav"></music-player>
     </NCard>
     <Button class="center" @click="active = true">SEE ALL</Button>
